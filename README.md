@@ -1,6 +1,3 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Hardikgarg987&label=Profile%20views&color=00FF00&style=flat" alt="Hardikgarg987" />
-</p>
 <h1 align="center"><p align="left">
  <a href="https://git.io/typing-svg" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?size=30&color=1A9AF7&lines=;My+self+Hardik;Welcome+to+my+GitHub;I'm+a+programmer;I'm+a+Developer;">
@@ -20,7 +17,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hardikgarg987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@hardik_garg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/t.ushar20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="t.ushar19" height="30" width="40" /></a>
 <a href="https://leetcode.com/Hardikgarg987/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@hardik_garg" height="30" width="40" /></a>
 </p>
 
